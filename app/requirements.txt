@@ -1,0 +1,9 @@
+pandas
+numpy
+Flask
+Flask-Cors
+flask-restx
+mysql-connector-python
+torch
+transformers
+tweet-preprocessor
